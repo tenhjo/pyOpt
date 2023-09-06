@@ -13,3 +13,6 @@ build
 *.egg-info
 venv*
 /MANIFEST
+
+
+*.idea
